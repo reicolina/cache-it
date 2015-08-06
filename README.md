@@ -1,4 +1,4 @@
-# cache-it
+# cache-it [![Build Status](https://travis-ci.org/reinaldo13/cache-it.svg?branch=master)](https://travis-ci.org/reinaldo13/cache-it)
 Because caching should be simple! A Javascript cache helper object. Supports in-memory and local storage caching as well as cache expiration.
 
 ## Installation
