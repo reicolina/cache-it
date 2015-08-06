@@ -1,4 +1,4 @@
-# cacheit
+# cache-it
 Because caching should be simple! A Javascript cache helper object. Supports in-memory and local storage caching as well as cache expiration.
 
 ## Installation
