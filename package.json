@@ -1,5 +1,5 @@
 {
-  "name": "cacheit",
+  "name": "cache-it",
   "version": "1.0.0",
   "description": "A Javascript cache helper object. Supports in-memory and local storage caching as well as cache expiration.",
   "main": "index.js",
