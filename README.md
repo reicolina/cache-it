@@ -2,7 +2,9 @@
 Because caching should be simple! A Javascript cache helper object. Supports in-memory and local storage caching as well as cache expiration.
 
 ## Installation
-  npm install cache-it --save
+```shell
+npm install cache-it --save
+```
 
 ## Constructor Parameters:
 - type: 'MEMORY' for memory cache or 'LOCAL' for html5 local storage (compatible with I8+)
@@ -10,11 +12,13 @@ Because caching should be simple! A Javascript cache helper object. Supports in-
 - expiry: amount of seconds that the cache will be valid for
 
 ## Usage
-    var CacheIt = require('cache-it');
-    var cache = new CacheIt('MEMORY', 'usersStore', 180);
-    cache.put('myKey', 'myValue');
-    var value = cache.get('myKey');
-    console.log(value);
+```javascript
+var CacheIt = require('cache-it');
+var cache = new CacheIt('MEMORY', 'usersStore', 180);
+cache.put('myKey', 'myValue');
+var value = cache.get('myKey');
+console.log(value);
+```
 
 ## Tests
   npm test
