@@ -21,7 +21,9 @@ console.log(value);
 ```
 
 ## Tests
-  npm test
+```shell
+npm test
+```
 
 ## Contributing
 In lieu of a formal styleguide, take care to maintain the existing coding style.
