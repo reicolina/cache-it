@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/reinaldo13/cacheit.git"
+    "url": "https://github.com/reinaldo13/cache-it.git"
   },
   "keywords": [
     "javascript",
@@ -17,9 +17,9 @@
   "author": "Rei Colina <reinaldo13+npm@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/reinaldo13/cacheit/issues"
+    "url": "https://github.com/reinaldo13/cache-it/issues"
   },
-  "homepage": "https://github.com/reinaldo13/cacheit",
+  "homepage": "https://github.com/reinaldo13/cache-it",
   "devDependencies": {
     "chai": "^3.2.0",
     "mocha": "^2.2.5"
