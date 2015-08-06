@@ -1,17 +1,3 @@
-/**
- * Class object dedicated to data caching
- *
- * Basic Usage:
- * ============
- * var cache = new Cache('local', 'usersStore', 180);
- *
- * Constructor Parameters:
- * =======================
- * - type: 'MEMORY' for memory cache or 'LOCAL' for html5 local storage (compatible with I8+)
- * - name: namespace for the cache's instance
- * - expiry: amount of seconds that the cache will be valid for
- */
-
 var MEMORY = 'MEMORY';
 var LOCAL = 'LOCAL';
 
